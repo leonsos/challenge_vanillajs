@@ -1,5 +1,3 @@
-
-
 function pop(param){       
     document.getElementById("title").innerHTML=`${param}`;
     document.getElementById("box").style.display = "block";   
